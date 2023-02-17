@@ -1,7 +1,10 @@
+import ProductContainer from "./components/ProductContainer";
+
 import './App.css'
 const App = () => {
     return(
-        <h1 className="titulo">hola app shen </h1>
+        <ProductContainer />
     )
 }
 export default App
+
