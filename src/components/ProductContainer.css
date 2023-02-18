@@ -1,0 +1,18 @@
+.products__section {
+  background-color: var(--container);
+  width: 510px;
+  margin: 30px auto;
+  padding: 24px;
+  min-height: 400px;
+  border-radius: 16px;
+}
+.products__title{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom: 16px;
+    color: var(--text);
+
+}
+
+.products__container{
+    border: 1PX solid   red;
+}
