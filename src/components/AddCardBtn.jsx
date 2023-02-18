@@ -1,8 +1,8 @@
-import './AddCardBtn.css'
+import './AddCardBtn.css';
 
 const AddCardBtn = () => {
   return (
-    <div>AddCardBtn</div>
+    <button className=''>Comprar</button>
   )
 }
 

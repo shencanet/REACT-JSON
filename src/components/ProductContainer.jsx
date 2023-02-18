@@ -9,7 +9,7 @@ const ProductContainer = (props) => {
         <div className='products__container'>
         {props.children}
             
-º.
+
         </div>
 
     </section>
