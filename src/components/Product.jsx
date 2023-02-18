@@ -5,8 +5,8 @@ export const Product = () => {
   return (
     
     <div className='Product'>
-    <img src='' alt='' />
+    <img src='https://picsum.photos/200' alt='' />
     </div>
     )
 }
-export {Product}
+export  default Product
