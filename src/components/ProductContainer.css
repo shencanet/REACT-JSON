@@ -12,7 +12,25 @@
     color: var(--text);
 
 }
-
 .products__container{
-    border: 1PX solid   red;
+  display: flex;
+  flex-wrap: wrap;
+  
+
+}
+
+@media(min-width: 760px){
+  .products__section{
+    width: 740px;
+
+  }
+
+}
+
+@media(min-width: 990px){
+  .products__section{
+    width: 970px;
+
+  }
+
 }
