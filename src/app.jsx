@@ -6,12 +6,16 @@ const App = () => {
         
         
         <ProductContainer>
-        <Product />
-        <Product />
-        <Product />
-        <Product />
-        <Product />
-        <Product />
+        <Product 
+        name="Camisa" 
+        oldPrice = "250"
+        Price= "350"
+        />
+        <Product name="Zapatos" />
+        <Product name="Jersey"/>
+        <Product name="Chaqueta"/>
+        <Product name="Chandal"/>
+        <Product name="Sudadera"/>
         </ProductContainer>
     
     )

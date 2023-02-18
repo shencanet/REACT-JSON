@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Camisa",
+        "price": "275",
+        "discount": "33",
+        "url": "https://picsum.photos/200"
+
+    },{
+        "name": "Pantalon",
+        "price": "346",
+        "discount": "52",
+        "url": "https://picsum.photos/200"
+
+    },{
+        "name": "Zapatos",
+        "price": "553",
+        "discount": "18",
+        "url": "https://picsum.photos/200"
+
+    },{
+        "name": "Chaqueta",
+        "price": "523",
+        "discount": "25",
+        "url": "https://picsum.photos/200"
+
+    },{
+        "name": "Bmbas",
+        "price": "125",
+        "discount": "30",
+        "url": "https://picsum.photos/200"
+
+    },{
+        "name": "Jersey",
+        "price": "375",
+        "discount": "10",
+        "url": "https://picsum.photos/200"
+
+    },{
+        "name": "Camisa",
+        "price": "275",
+        "discount": "30",
+        "url": "https://picsum.photos/200"
+
+    },{
+        "name": "Camisa",
+        "price": "275",
+        "discount": "30",
+        "url": "https://picsum.photos/200"
+
+    }
+
+]
