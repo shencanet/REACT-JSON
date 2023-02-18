@@ -2,13 +2,13 @@
     {
         "name": "Camisa",
         "price": "275",
-        "discount": "33",
+        "discount": "1",
         "url": "https://picsum.photos/200"
 
     },{
         "name": "Pantalon",
         "price": "346",
-        "discount": "52",
+        "discount": "2",
         "url": "https://picsum.photos/200"
 
     },{
