@@ -20,7 +20,7 @@ export const Product = (props) => {
         <p className="product__oldPrice">$ {props.oldPrice}</p>
         <p className="product__price">$ {props.Price}</p>
       </div>
-      <AddCardBtn />
+      <AddCardBtn name ={props.name} Price={props.Price}  />
     </div>
   );
 };
